@@ -6,7 +6,7 @@
 
 Site web multi-pages responsive présentant le Pôle Informatique de l'EFREI Paris, avec chatbot intégré à reconnaissance d'intentions.
 
-🌐 **[Voir le site en ligne](https://eliott-agy.github.io/efrei-pole-info/)** *(GitHub Pages)*
+
 
 ---
 
